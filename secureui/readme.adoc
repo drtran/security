@@ -1,0 +1,4 @@
+= Spring Security Sample
+
+This project contains basic code for using Spring Security with 
+OAuth2. Authentication using github

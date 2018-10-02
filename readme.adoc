@@ -1,0 +1,8 @@
+= Security related projects
+
+This is a workspace where I am playing with security programming.
+
+== Projects
+
++ secureui - using thymeleaf and Spring Security for a springboot app.
+
